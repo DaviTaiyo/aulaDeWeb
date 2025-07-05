@@ -1,0 +1,24 @@
+{
+  "name": "auladeweb",
+  "version": "1.0.0",
+  "description": "Aula de web Turma 37º",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviTaiyo/aulaDeWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviTaiyo/aulaDeWeb/issues"
+  },
+  "homepage": "https://github.com/DaviTaiyo/aulaDeWeb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
